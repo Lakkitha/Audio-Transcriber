@@ -11,6 +11,9 @@ A browser-based application for transcribing audio and video files using OpenAI'
 - Save transcriptions as text files
 - Secure - your API key is stored locally and never sent to any server except OpenAI
 
+test
+
+
 ## How to Use
 
 1. Open the application in your web browser
